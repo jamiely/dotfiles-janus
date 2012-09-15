@@ -1,0 +1,12 @@
+[submodule "cocoa.vim"]
+	path = cocoa.vim
+	url = git://github.com/msanders/cocoa.vim.git
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "vim-align"]
+	path = vim-align
+	url = git://github.com/tsaleh/vim-align.git
+[submodule "gist-vim"]
+	path = gist-vim
+	url = git://github.com/mattn/gist-vim.git
