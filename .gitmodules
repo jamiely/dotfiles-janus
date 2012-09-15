@@ -10,3 +10,6 @@
 [submodule "gist-vim"]
 	path = gist-vim
 	url = git://github.com/mattn/gist-vim.git
+[submodule "vim-aspnetide"]
+	path = vim-aspnetide
+	url = git://github.com/bryanthankins/vim-aspnetide.git
