@@ -13,3 +13,6 @@
 [submodule "vim-aspnetide"]
 	path = vim-aspnetide
 	url = git://github.com/bryanthankins/vim-aspnetide.git
+[submodule "closetag.vim"]
+	path = closetag.vim
+	url = git://github.com/taxilian/closetag.vim.git
