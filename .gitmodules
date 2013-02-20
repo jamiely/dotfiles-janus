@@ -15,4 +15,4 @@
 	url = git://github.com/bryanthankins/vim-aspnetide.git
 [submodule "closetag.vim"]
 	path = closetag.vim
-	url = git://github.com/taxilian/closetag.vim.git
+	url = https://github.com/vim-scripts/closetag.vim
