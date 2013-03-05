@@ -16,3 +16,6 @@
 [submodule "closetag.vim"]
 	path = closetag.vim
 	url = git://github.com/taxilian/closetag.vim.git
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git
