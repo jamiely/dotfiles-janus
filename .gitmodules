@@ -28,3 +28,6 @@
 [submodule "rust.vim"]
 	path = rust.vim
 	url = https://github.com/rust-lang/rust.vim.git
+[submodule "vim-terraform"]
+	path = vim-terraform
+	url = git@github.com:hashivim/vim-terraform.git
