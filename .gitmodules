@@ -31,3 +31,12 @@
 [submodule "vim-terraform"]
 	path = vim-terraform
 	url = git@github.com:hashivim/vim-terraform.git
+[submodule "ansible-vim"]
+	path = ansible-vim
+	url = git@github.com:pearofducks/ansible-vim.git
+[submodule "linediff.vim"]
+	path = linediff.vim
+	url = https://github.com/AndrewRadev/linediff.vim.git
+[submodule "Vim-Jinja2-Syntax"]
+	path = Vim-Jinja2-Syntax
+	url = git@github.com:Glench/Vim-Jinja2-Syntax.git
